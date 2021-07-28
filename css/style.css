@@ -1,0 +1,36 @@
+body {
+  padding: 35px;
+}
+
+
+.title {
+  font-size: 40px;
+  font-weight: bolder;
+
+}
+
+
+.by {
+  font-size: 25px;
+  font-style: italic;
+
+}
+
+.chorus {
+  padding-top: 10px;
+
+}
+
+
+.first, .second {
+  padding-top: 10px;
+}
+
+.author {
+  padding-top: 15px;
+  font-style: italic;
+}
+
+.author p span {
+      font-weight: bold;
+    }

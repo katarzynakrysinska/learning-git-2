@@ -1,26 +1,24 @@
 body {
   padding: 35px;
+  background-image:url('https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+  background-position: center;
+  background-size: cover;
+  display: flex;
 }
-
 
 .title {
   font-size: 40px;
   font-weight: bolder;
-
 }
-
 
 .by {
   font-size: 25px;
   font-style: italic;
-
 }
 
 .chorus {
   padding-top: 10px;
-
 }
-
 
 .first, .second {
   padding-top: 10px;
@@ -34,3 +32,7 @@ body {
 .author p span {
       font-weight: bold;
     }
+
+.image {
+  padding: 100px 40px 0 60px;
+}
